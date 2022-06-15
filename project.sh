@@ -1,1 +1,1 @@
-echo "First sample job c1"
+echo "First sample job c1s"
